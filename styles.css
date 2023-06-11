@@ -31,3 +31,22 @@
 .north{
     height: 200px;
 }
+.cursive{
+    font-family:'Dancing Script', cursive !important ;
+
+}
+.card-height{
+    height: 200px;
+}
+.customer{
+    height: 200px;
+}
+ul li{
+    list-style: none;
+}
+.about{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}
